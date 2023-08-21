@@ -1,6 +1,6 @@
 # 👋 Hi, my name is **Alex Lizunov**!
 
-## I'm a *Frontend developer* from Batumi, Georgia.
+## I'm a *Frontend developer*.
 
 ## Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
